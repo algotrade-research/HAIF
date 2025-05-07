@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/PLUTUS-Incubator_%F0%9F%A5%9A-darkgreen)
+
 # 🧠💬 HAIF – Human-AI Interpreter Framework
 
 ## 0. Introduction
